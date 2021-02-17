@@ -1,0 +1,33 @@
+# Don't print a new line at the start of the prompt
+# add_newline = false
+
+# Replace the "❯" symbol in the prompt with "➜"
+#[character]                            # The name of the module we are configuring is "character"
+#success_symbol = "[➜](bold green)"     # The "success_symbol" segment is being set to "➜" with the color "bold green"
+
+# [line_break]
+# disabled = true
+
+[time]
+disabled = true
+
+# [username]
+# style_user = "red bold"
+# style_root = "black bold"
+# format = "[$user]($style) "
+# disabled = false
+# show_always = true
+
+# [hostname]
+# ssh_only = false
+# format =  "on [$hostname](bold green) "
+# trim_at = ".companyname.com"
+# disabled = false
+
+[directory]
+style = "blue"
+
+# Disable the package module, hiding it from the prompt completely
+#[package]
+#disabled = true
+

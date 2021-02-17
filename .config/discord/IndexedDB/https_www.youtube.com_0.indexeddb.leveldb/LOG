@@ -1,0 +1,5 @@
+2021/01/04-03:06:50.734 fe7 Reusing MANIFEST /home/jarrad/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/04-03:07:20.094 1144 Level-0 table #5: started
+2021/01/04-03:07:20.096 1144 Level-0 table #5: 1165 bytes OK
+2021/01/04-03:07:20.100 1144 Delete type=0 #3
+2021/01/04-03:07:20.100 1144 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
